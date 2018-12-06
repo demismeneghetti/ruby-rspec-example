@@ -1,0 +1,9 @@
+source 'http://rubygems.org'
+
+# WEB
+gem 'selenium-webdriver'
+gem 'capybara', '< 3.3'
+gem 'site_prism'
+
+# API
+gem 'httparty'
